@@ -11,7 +11,7 @@ html {
 body {
   font-family: "Inter", Arial, sans-serif;
   background: #f7f3ef;
-  color: #3b2f2f;
+  color: #ff00f2;
   line-height: 1.6;
 }
 
@@ -23,7 +23,7 @@ h4 {
 }
 
 header {
-  background: #5c3d2e;
+  background: #ff2ef5;
   color: white;
   position: sticky;
   top: 0;
